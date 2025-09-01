@@ -100,10 +100,8 @@ AI-powered face mask detection system:
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/druva21)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:druva@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=globe)](https://druva.dev)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-orange?style=for-the-badge&logo=kaggle)](https://kaggle.com/druva21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/druva-kumar-yadav/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:druvakumar.gorla@gmail.com)
 
 
 ## 🎉 Fun Facts
